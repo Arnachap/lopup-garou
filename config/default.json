@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://loup-garou:loup-garou@loup-garou-hfwbx.mongodb.net/test?retryWrites=true&w=majority"
+}
